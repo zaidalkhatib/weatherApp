@@ -1,0 +1,16 @@
+body {
+    background: url(rain1.gif) no-repeat;
+    color: black;
+    background-size: cover;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+input {
+    border: none;
+    border-radius: 2px;
+    height: 35px;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
